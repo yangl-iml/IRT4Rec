@@ -11,4 +11,4 @@ Dorota Glowacka
 
 
 ## Supplymentary Materials
-Hyperparameter values and model Performance for all metrics can be found [HERE](Supplymentary_Materials.pdf).
+Hyperparameter values and model Performance for all metrics can be found [HERE](Supplementary_Materials.pdf).
