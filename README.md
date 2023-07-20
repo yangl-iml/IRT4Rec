@@ -6,7 +6,7 @@ This repository contains codes and supplementary materials for our paper publish
 </br>
 Yang Liu,
 Alan Medlar,
-Dorota Glowacka
+Dorota Głowacka
 
 
 
