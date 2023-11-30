@@ -1,4 +1,5 @@
 # IRT4Rec
+${\color{red} Please\ note\ that\ the\ repository\ is\ still\ under\ construction.}$
 
 This repository contains codes and supplementary materials for our paper published at RecSys2023:
 
